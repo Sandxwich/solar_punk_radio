@@ -423,7 +423,7 @@
     ],
     [
       "031f395c-467c-47af-acd6-d1b5a436666d",
-      "motherboard"
+      "control board"
     ],
     [
       "7b2f9636-ff4a-4d39-ac0a-601e032c09a9",
@@ -443,7 +443,15 @@
     ],
     [
       "9224eb23-a53e-447d-9b15-65ad95d7edc0",
-      "screen"
+      "screen controller"
+    ],
+    [
+      "a10d122e-2160-4ffb-8f2f-250c64fa9b46",
+      "Battery management"
+    ],
+    [
+      "f3bd501c-dd19-46ce-9018-3ad8f2979270",
+      "USB C"
     ]
   ],
   "text_variables": {}
