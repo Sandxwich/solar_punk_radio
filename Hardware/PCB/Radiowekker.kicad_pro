@@ -420,6 +420,30 @@
     [
       "d1c96533-fea5-409f-9018-c843faf96bf8",
       "Root"
+    ],
+    [
+      "031f395c-467c-47af-acd6-d1b5a436666d",
+      "motherboard"
+    ],
+    [
+      "7b2f9636-ff4a-4d39-ac0a-601e032c09a9",
+      "FM_reciever"
+    ],
+    [
+      "dcf7ccc7-d6f7-40bb-b70a-3530e1635ff4",
+      "audio controller"
+    ],
+    [
+      "f8a0b3cf-53b7-4a82-ab55-7035fe5c8b3a",
+      "Power management"
+    ],
+    [
+      "7b54d1e6-010f-4bc3-8c4b-8004b5cbe6dd",
+      "UI Pannel"
+    ],
+    [
+      "9224eb23-a53e-447d-9b15-65ad95d7edc0",
+      "screen"
     ]
   ],
   "text_variables": {}
