@@ -2774,7 +2774,7 @@
 				)
 			)
 		)
-		(property "Value" "8"
+		(property "Value" "18"
 			(at 56.388 39.624 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3280,7 +3280,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 108.966 65.278 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3515,7 +3515,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 121.666 65.532 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4384,7 +4384,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "18"
 			(at 61.214 62.992 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4782,7 +4782,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "180K"
 			(at 75.184 62.738 90)
 			(show_name no)
 			(do_not_autoplace no)
