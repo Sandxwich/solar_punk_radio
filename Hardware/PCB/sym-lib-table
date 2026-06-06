@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "RGB_leds") (type "KiCad") (uri "D:/PCB_projects/solar_punk_radio/Hardware/kicadlibs/RGB_leds.kicad_sym") (options "") (descr ""))
+)
