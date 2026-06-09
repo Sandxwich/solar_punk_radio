@@ -8394,7 +8394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ea47458-b291-4712-9652-a8ee5ea74751")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR021"
 			(at 544.83 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -8454,7 +8454,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR020")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9106,7 +9106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33d8140d-769d-40f7-bd5d-548740ab65bb")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 556.26 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9166,7 +9166,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9808,7 +9808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a4a1de8-73b6-4a52-9fa3-5c2bf9d125eb")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 552.45 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -9868,7 +9868,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -10291,7 +10291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52711066-4a7a-4351-bb78-562e93c56c66")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR015"
 			(at 502.92 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10351,7 +10351,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR014")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -10369,7 +10369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57346c6e-caf9-4d9c-939f-715186dc18fe")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 557.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -10429,7 +10429,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -10773,7 +10773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "613c7fc3-26d1-418e-8041-f1b6610f01bd")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR017"
 			(at 525.78 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -10833,7 +10833,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR016")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -10932,7 +10932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "662a878a-e8b5-49d4-a854-cedcef4522b6")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR019"
 			(at 541.02 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10992,7 +10992,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR018")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -11010,7 +11010,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "682dff25-9d41-4869-8b82-225cc3bd31d2")
-		(property "Reference" "U6"
+		(property "Reference" "U2"
 			(at 503.174 32.004 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11089,7 +11089,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "U6")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -11107,7 +11107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ed112eb-01d3-45da-ad99-af0e89bb3647")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 553.72 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11167,7 +11167,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -11820,7 +11820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b19f02b-1a48-4d5c-aab5-7609b7d65721")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 551.18 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11880,7 +11880,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -11898,7 +11898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c16d922-1bf6-4a31-97a7-36aa9129bfb6")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR020"
 			(at 544.83 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11958,7 +11958,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -12776,7 +12776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2da933d-80be-46b2-8b85-da68d15af8ce")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 551.18 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12836,7 +12836,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12854,7 +12854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4f86420-3d61-4bfc-8dea-edc02e3e4197")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR014"
 			(at 500.38 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12914,7 +12914,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR041")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -12932,7 +12932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b61b53e9-e189-4585-a62e-b7df1ef7d355")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 547.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12992,7 +12992,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -13169,7 +13169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1d4b55e-598b-47a4-9b01-943fa2c530bd")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR018"
 			(at 534.67 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13229,7 +13229,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -13338,7 +13338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccf03c3a-6f55-4a75-8f93-40a6c9594d51")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 506.73 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13412,7 +13412,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13877,7 +13877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f38474fd-6e54-4d11-b098-9e9e8bda013a")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 506.73 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -13937,7 +13937,7 @@
 		(instances
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)

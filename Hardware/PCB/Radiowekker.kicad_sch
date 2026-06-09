@@ -424,8 +424,8 @@
 		)
 	)
 	(sheet
-		(at 146.05 99.06)
-		(size 55.88 34.29)
+		(at 138.43 95.25)
+		(size 55.88 39.37)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -439,8 +439,8 @@
 			(color 0 0 0 0)
 		)
 		(uuid "7b54d1e6-010f-4bc3-8c4b-8004b5cbe6dd")
-		(property "Sheetname" "UI Pannel"
-			(at 146.05 98.3484 0)
+		(property "Sheetname" "UI"
+			(at 138.43 94.5384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -451,7 +451,7 @@
 			)
 		)
 		(property "Sheetfile" "UI_pannel.kicad_sch"
-			(at 146.05 133.9346 0)
+			(at 138.43 135.2046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -465,52 +465,6 @@
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8"
 					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 80.01 143.51)
-		(size 55.88 36.83)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "9224eb23-a53e-447d-9b15-65ad95d7edc0")
-		(property "Sheetname" "screen controller"
-			(at 80.01 142.7984 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "screen.kicad_sch"
-			(at 80.01 180.9246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Radiowekker"
-				(path "/d1c96533-fea5-409f-9018-c843faf96bf8"
-					(page "7")
 				)
 			)
 		)
