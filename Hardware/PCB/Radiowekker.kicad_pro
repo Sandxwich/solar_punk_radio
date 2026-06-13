@@ -669,7 +669,7 @@
         "uuid": "d1c96533-fea5-409f-9018-c843faf96bf8"
       }
     ],
-    "used_designators": "U1-6,D1-6,L1,AE1,#PWR1-41,RS1,C1-21,TP1-4,J1,JP1,LS1,#FLG1-2,R1-30,SW1",
+    "used_designators": "SW2-7,J1,R13-16,R31-36,#FLG1-2,L1,D5,#PWR12-28,#PWR50-62,C8-13,TP1-8,U2-3",
     "variants": []
   },
   "sheets": [
@@ -695,11 +695,7 @@
     ],
     [
       "7b54d1e6-010f-4bc3-8c4b-8004b5cbe6dd",
-      "UI Pannel"
-    ],
-    [
-      "9224eb23-a53e-447d-9b15-65ad95d7edc0",
-      "screen controller"
+      "UI"
     ],
     [
       "a10d122e-2160-4ffb-8f2f-250c64fa9b46",
