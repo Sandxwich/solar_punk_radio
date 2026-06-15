@@ -5164,6 +5164,18 @@
 		)
 	)
 	(rectangle
+		(start 59.69 317.5)
+		(end 90.17 397.51)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "056e8600-d6c6-468c-80fe-ebad7a5e96ec")
+	)
+	(rectangle
 		(start 25.4 25.4)
 		(end 228.6 228.6)
 		(stroke
@@ -5174,6 +5186,18 @@
 			(type none)
 		)
 		(uuid "26b039f4-43cd-4d72-b701-1822366ca2c6")
+	)
+	(rectangle
+		(start 20.066 355.6)
+		(end 55.88 397.51)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "88fd0d74-0738-4863-931c-827845251f14")
 	)
 	(rectangle
 		(start 355.6 25.4)
@@ -5187,6 +5211,26 @@
 		)
 		(uuid "9a75b89e-3460-4a6f-beb5-413ebb8ffb31")
 	)
+	(text "button testpoint"
+		(exclude_from_sim no)
+		(at 27.94 354.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "02db0549-e481-4c5a-8dc3-e2178d6be9ab")
+	)
+	(text "Screen testpoints"
+		(exclude_from_sim no)
+		(at 68.326 316.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f6479f4-bd00-4d24-b976-4b8be8d6de5c")
+	)
 	(text "STM32 IC"
 		(exclude_from_sim no)
 		(at 32.512 23.876 0)
@@ -5194,6 +5238,7 @@
 			(font
 				(size 1.27 1.27)
 			)
+			(href "https://jlcpcb.com/partdetail/STMicroelectronics-STM32F303VCT6/C40764")
 		)
 		(uuid "50b8fbff-ec6d-4e95-9224-db4b5357f65e")
 	)
@@ -5534,6 +5579,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 375.92) (xy 41.91 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c31c33d-a6fc-4565-b54b-b2b64f8af869")
+	)
+	(wire
+		(pts
 			(xy 82.55 44.45) (xy 82.55 46.99)
 		)
 		(stroke
@@ -5614,6 +5669,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 83.82) (xy 137.16 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26646a34-220b-4a5c-aa3c-c81277136f68")
+	)
+	(wire
+		(pts
 			(xy 402.59 78.74) (xy 402.59 74.93)
 		)
 		(stroke
@@ -5661,6 +5726,16 @@
 			(type default)
 		)
 		(uuid "2d707867-4801-4b11-ab3a-ed71147198b1")
+	)
+	(wire
+		(pts
+			(xy 76.2 388.62) (xy 76.2 387.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "385aa4dd-8ad0-4bf3-aa75-d25fcf09c0fd")
 	)
 	(wire
 		(pts
@@ -5794,6 +5869,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 394.97) (xy 41.91 394.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fbcca9d-171e-4d46-946d-e4da774e4509")
+	)
+	(wire
+		(pts
 			(xy 57.15 71.12) (xy 52.07 71.12)
 		)
 		(stroke
@@ -5914,6 +5999,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 363.22) (xy 41.91 363.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6867e13e-06f4-4528-bac1-a6599bd0ea81")
+	)
+	(wire
+		(pts
 			(xy 137.16 134.62) (xy 154.94 134.62)
 		)
 		(stroke
@@ -5994,6 +6089,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 73.66) (xy 137.16 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad2e23f-b293-4a10-b5c3-300896caf5de")
+	)
+	(wire
+		(pts
 			(xy 430.53 36.83) (xy 430.53 39.37)
 		)
 		(stroke
@@ -6011,6 +6116,26 @@
 			(type default)
 		)
 		(uuid "7dc6c251-fe47-4a16-a8b8-40804020927e")
+	)
+	(wire
+		(pts
+			(xy 147.32 81.28) (xy 137.16 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e3acf5c-31b6-4477-b506-f8f531b40d8d")
+	)
+	(wire
+		(pts
+			(xy 41.91 388.62) (xy 41.91 387.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "822e0757-0552-44a9-863f-ac03d8f238af")
 	)
 	(wire
 		(pts
@@ -6104,6 +6229,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 369.57) (xy 41.91 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93e9a2ca-86ff-4cfc-bb14-571e1e354b31")
+	)
+	(wire
+		(pts
 			(xy 195.58 142.24) (xy 199.39 142.24)
 		)
 		(stroke
@@ -6151,6 +6286,16 @@
 			(type default)
 		)
 		(uuid "995904b2-a01d-41fa-92b7-a73d8e957ce3")
+	)
+	(wire
+		(pts
+			(xy 147.32 76.2) (xy 137.16 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99bd54c2-cdbb-48bf-a58c-5ef412e6ce18")
 	)
 	(wire
 		(pts
@@ -6274,6 +6419,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 369.57) (xy 41.91 368.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afd37e2b-f45f-477a-b698-a37e13a8c99c")
+	)
+	(wire
+		(pts
 			(xy 114.3 44.45) (xy 107.95 44.45)
 		)
 		(stroke
@@ -6281,6 +6436,16 @@
 			(type default)
 		)
 		(uuid "b037e899-8f1f-4c8f-8012-1c4f9afbb7ac")
+	)
+	(wire
+		(pts
+			(xy 39.37 388.62) (xy 41.91 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2181315-141d-44ad-a7ca-450e0c1f8e07")
 	)
 	(wire
 		(pts
@@ -6301,6 +6466,16 @@
 			(type default)
 		)
 		(uuid "b61ea30f-bfd5-473c-8345-c4571bf1a410")
+	)
+	(wire
+		(pts
+			(xy 73.66 394.97) (xy 76.2 394.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6497a2f-d891-458a-9af0-cbe03d32ff81")
 	)
 	(wire
 		(pts
@@ -6331,6 +6506,16 @@
 			(type default)
 		)
 		(uuid "bb6e1ff7-b612-4247-911d-bba8d6657ec8")
+	)
+	(wire
+		(pts
+			(xy 41.91 382.27) (xy 41.91 381)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd8497cb-336b-4b55-9e0f-55516b73ed9e")
 	)
 	(wire
 		(pts
@@ -6424,6 +6609,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 375.92) (xy 41.91 375.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbf2ac5a-d02e-436e-9d8a-471d824479e9")
+	)
+	(wire
+		(pts
 			(xy 137.16 101.6) (xy 147.32 101.6)
 		)
 		(stroke
@@ -6481,6 +6676,16 @@
 			(type default)
 		)
 		(uuid "d1597675-6eeb-4f63-b289-ee16f0cedf09")
+	)
+	(wire
+		(pts
+			(xy 73.66 388.62) (xy 76.2 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1d0c624-7db9-4095-b96c-98e717510d1b")
 	)
 	(wire
 		(pts
@@ -6604,6 +6809,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 71.12) (xy 137.16 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed1a9837-f8d0-4527-8429-e84d0dc11944")
+	)
+	(wire
+		(pts
 			(xy 137.16 99.06) (xy 147.32 99.06)
 		)
 		(stroke
@@ -6621,6 +6836,16 @@
 			(type default)
 		)
 		(uuid "eff8a112-2140-485f-af92-0cc5b1cf2e21")
+	)
+	(wire
+		(pts
+			(xy 39.37 382.27) (xy 41.91 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1f2cca4-a610-44a5-b3eb-d84cbddfabd2")
 	)
 	(wire
 		(pts
@@ -6664,6 +6889,26 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 394.97) (xy 76.2 393.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f962bf49-98ec-4cbc-9b06-7c9b2db5481d")
+	)
+	(wire
+		(pts
+			(xy 41.91 394.97) (xy 41.91 393.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa02e474-ebb3-456e-9f53-6392c479a8ad")
+	)
+	(wire
+		(pts
 			(xy 68.58 76.2) (xy 69.85 76.2)
 		)
 		(stroke
@@ -6691,6 +6936,26 @@
 			(type default)
 		)
 		(uuid "fbab1d4a-f713-45ef-920d-a7252091be80")
+	)
+	(wire
+		(pts
+			(xy 41.91 363.22) (xy 41.91 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fedf320c-1121-4203-94e0-94534e569465")
+	)
+	(wire
+		(pts
+			(xy 147.32 78.74) (xy 137.16 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feea4876-e7a9-4273-bd37-5a0c654fc252")
 	)
 	(wire
 		(pts
@@ -6741,6 +7006,239 @@
 			(justify left bottom)
 		)
 		(uuid "c936bf56-b9ed-4b7e-b731-ab2352cbd807")
+	)
+	(hierarchical_label "minus_button"
+		(shape input)
+		(at 147.32 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1397d8e8-39cf-4368-bfb4-8839754cace1")
+	)
+	(hierarchical_label "middle_left"
+		(shape input)
+		(at 39.37 363.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1f59a3f8-25ad-4cf8-ae61-d185c280fbe8")
+	)
+	(hierarchical_label "sellect_button_R"
+		(shape input)
+		(at 147.32 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "334c65b1-3a18-4ac2-acae-2247aabc1cdf")
+	)
+	(hierarchical_label "middle_left"
+		(shape input)
+		(at 147.32 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "387cf892-25ca-484b-a04a-766d750d39aa")
+	)
+	(hierarchical_label "middle_right"
+		(shape input)
+		(at 147.32 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3fa82ee1-b59b-4089-a159-7dd36c5ae8e6")
+	)
+	(hierarchical_label "plus_button"
+		(shape input)
+		(at 147.32 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4233cca1-9120-474a-a7de-74226b5034f7")
+	)
+	(hierarchical_label "sellect_button_L"
+		(shape input)
+		(at 147.32 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "752c284a-e86b-4cf2-b81b-8b132c9f6c8f")
+	)
+	(hierarchical_label "minus_button"
+		(shape input)
+		(at 39.37 382.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "79a82fd3-49e8-4ffd-a977-8a5eb11031ec")
+	)
+	(hierarchical_label "tft_rst"
+		(shape output)
+		(at 73.66 388.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7a1b5e82-0e5d-402b-95b9-fbff59f4f75c")
+	)
+	(hierarchical_label "plus_button"
+		(shape input)
+		(at 39.37 375.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "83ec9903-7efe-472a-9dea-e5bc733e1a10")
+	)
+	(hierarchical_label "sellect_button_R"
+		(shape input)
+		(at 39.37 394.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a13483aa-5a29-44c2-a19b-90acd2cc2120")
+	)
+	(hierarchical_label "middle_right"
+		(shape input)
+		(at 39.37 369.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a3f443a2-ef6c-4a64-a832-53c5252bf787")
+	)
+	(hierarchical_label "tft_ctrl_pwm"
+		(shape output)
+		(at 73.66 394.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac7a87cd-a455-4ecf-8fa8-137fb42a3944")
+	)
+	(hierarchical_label "sellect_button_L"
+		(shape input)
+		(at 39.37 388.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1711180-4547-4f13-a896-0ee2237f0d04")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 393.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "039db81b-0186-4920-8194-9537fe31aec4")
+		(property "Reference" "TP11"
+			(at 44.45 389.1279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 391.6679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f77e845a-4666-4625-8b22-46ca6dc39dce")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -7055,6 +7553,85 @@
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 76.2 393.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1228811f-917f-4d64-8704-681b40c3a5b7")
+		(property "Reference" "TP21"
+			(at 78.74 389.1279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 78.74 391.6679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 76.2 393.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c3b0a07f-cd5a-482a-a70d-c03f24587e7b")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -7691,6 +8268,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 387.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d2ec3d0-852f-4f14-9312-20374f58cfa6")
+		(property "Reference" "TP10"
+			(at 44.45 382.7779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 385.3179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e65eef86-0ade-4bd7-82ea-ce6d4a0edaf7")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 82.55 50.8 0)
 		(unit 1)
@@ -8310,6 +8966,85 @@
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 76.2 387.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3833b78e-f6f5-4c48-98a7-0dad0adc3826")
+		(property "Reference" "TP20"
+			(at 78.74 382.7779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 78.74 385.3179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 76.2 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bf16128f-3f99-494a-9a2a-2e6a2a01cbf9")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -9116,6 +9851,85 @@
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 381 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "64c97207-8946-4fe2-af7f-7e9468b77b6e")
+		(property "Reference" "TP9"
+			(at 44.45 376.4279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 378.9679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 381 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 381 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 381 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f7bd27fb-dfbb-4249-ac4f-f6b642843acb")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -10645,6 +11459,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 374.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba3c4222-90cb-4000-8f62-242d909adf00")
+		(property "Reference" "TP8"
+			(at 44.45 370.0779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 372.6179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 374.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 374.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 374.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "00ac35b3-5730-4f31-ac4d-32a2fdb7445f")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 361.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c64afb98-98bb-4e7e-b092-d8b41f2c4bd6")
+		(property "Reference" "TP6"
+			(at 44.45 357.3779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 359.9179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cfa44add-a819-41e6-ae08-eee79fbe6d42")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 168.91 180.34 90)
 		(unit 1)
@@ -10923,6 +11895,85 @@
 			(project "Radiowekker"
 				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 368.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef49d028-c21b-49ba-a682-034486b21ad1")
+		(property "Reference" "TP7"
+			(at 44.45 363.7279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 44.45 366.2679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59ff08fa-5805-4730-b6c5-7c234ea0c165")
+		)
+		(instances
+			(project "Radiowekker"
+				(path "/d1c96533-fea5-409f-9018-c843faf96bf8/031f395c-467c-47af-acd6-d1b5a436666d"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
